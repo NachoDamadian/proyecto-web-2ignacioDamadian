@@ -1,0 +1,81 @@
+/* pagina ps5 */
+
+h1.p5 {
+    margin-left: 50%;
+}
+iframe.vid {
+    margin-bottom: 185px;
+    margin-left: 100px;
+}
+ul.lis{
+    margin-left: 34cm;
+    margin-top: -3cm;
+}
+div.txps {
+    margin-right: 30cm;
+    margin-top: 3cm;
+}
+
+/* pagina nintendo */
+h1.ni {
+    margin-left: 50%;
+}
+iframe.vi {
+    margin-bottom: 70px;
+    margin-top: -10cm;
+}
+ul.lista {
+    color: rgb(122, 20, 20);
+}
+div.tns {
+    margin-left: 35cm;
+    margin-top: -20cm;
+}
+footer.ft {
+    margin-top: 18cm;
+}
+img.wpf { 
+    margin-left: 47cm;
+    margin-bottom: -3.5cm;
+}
+
+/* pagina xbox */
+h1.xx {
+    margin-left: 50%;
+}
+iframe.vx {
+    margin-left: 100px;
+}
+ol.lista{ 
+    margin-left: 22.5cm;
+    margin-top: -13cm;
+}
+div.tex{
+    margin-top: 15cm;
+    margin-right: 15cm;
+}
+
+/* pagina contacto */
+
+input.bot {
+    margin-top: 1cm;
+}
+div.bx {
+    margin-top: 1cm;
+}
+div.ml {
+    margin-top: 1cm;
+}
+body.bd {
+    background-color: blueviolet;
+}
+
+/* paginas juegos */
+
+
+@media (max-width: 768px) {
+    img.img1 {
+        width: 100%;
+    }
+   
+}
